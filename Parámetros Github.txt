@@ -1,0 +1,16 @@
+
+Nombre  -->  Ster4423
+
+Email address  --> ester.mfz111611@gmail.com
+
+against  -->    esTeide18@clase
+
+Nombre repositorio  -->    Programacion
+
+Descripcion -->  Programas realizados durante el curso
+
+1º vínculo --> https://github.com/Ster4423/Programacion
+
+Vinculo de lo primero escrito --> https://github.com/Ster4423/Programacion/blob/main/README.md
+
+Visual Studio 2019 --> Github proyecto 
